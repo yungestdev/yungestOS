@@ -1,0 +1,1 @@
+"C:/Program Files/Oracle/VirtualBox/VBoxManage" convertfromraw main_floppy.img virtual_disk.vdi
